@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)tesseract.net.sdk\4.5.411\build\Tesseract.Net.SDK.targets" Condition="Exists('$(NuGetPackageRoot)tesseract.net.sdk\4.5.411\build\Tesseract.Net.SDK.targets')" />
+  </ImportGroup>
+</Project>

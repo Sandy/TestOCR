@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "6Qt5qpp5B/+tmjUv7I+tFnjgDPqGfv/QdNcp9Kp6VuEnjFyYYmaYMj6QTLSwdrUGR9+YrZPqLJwiT11Wb8tGow==",
+  "success": true,
+  "projectFilePath": "C:\\Work\\Projects\\Testing Projects\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sssamy\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\sssamy\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\sssamy\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512",
+    "C:\\Users\\sssamy\\.nuget\\packages\\tesseract.net.sdk\\4.5.411\\tesseract.net.sdk.4.5.411.nupkg.sha512"
+  ],
+  "logs": []
+}
